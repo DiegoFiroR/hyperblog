@@ -1,2 +1,0 @@
-# hyperblog
-blog para aprender
